@@ -417,7 +417,7 @@ export default function Home() {
                 playsInline
               >
                 <source
-                  src="/static/videos/institucional.mp4"
+                  src="/static/videos/institucional-petland.mp4"
                   type="video/mp4"
                 />
               </video>

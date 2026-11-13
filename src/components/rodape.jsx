@@ -6,7 +6,7 @@ function Rodape() {
       <div className="mx-auto grid max-w-6xl gap-10 px-5 py-14 md:grid-cols-3">
         <div>
           <img
-            src="/static/images/logo-petland-branco.png"
+            src="/static/images/logo-petland.png"
             alt="Petland Distribuição"
             width="240"
             height="76"
